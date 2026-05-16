@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **tt221202@gmail.com**
 
+- 🩵 Loving peace and funny
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://fb.com/nit2212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nit2212/" height="30" width="40" /></a>
 <a href="https://instagram.com/nitp22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nitp22/" height="30" width="40" /></a>
