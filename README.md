@@ -2,8 +2,6 @@
 <h1 align="center">Hi there 👋, I'm Pham Trung Tin</h1>
 <h3 align="center">A software developer from VietNam</h3>
 
-- 🔭 I’m currently working on [STOMS](stoms.site)
-
 - 🌱 I’m currently learning **C# .NET**
 
 - 📫 How to reach me **tt221202@gmail.com**
