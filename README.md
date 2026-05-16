@@ -1,5 +1,4 @@
-# trungtinpham
-My personal repository
+
 <h1 align="center">Hi 👋, I'm Pham Trung Tin</h1>
 <h3 align="center">A software developer from VietNam</h3>
 
