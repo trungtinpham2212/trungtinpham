@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from VietNam</h3>
 
 - 🌱 I’m currently learning **C# .NET**
-- 📫 How to reach me **tt221202@gmail.com**
+- 📫 Reach me here **tt221202@gmail.com**
 - 🩵 Loving peace and funny
 
 <h3 align="left">Connect with me:</h3>
